@@ -1,0 +1,9 @@
+{
+  "name": "mern-comment-box",
+  "version": "1.0.0",
+  "description": "A Facebook-like comment box using MERN",
+  "main": "index.js",
+  "repository": "git@github.com:Blitz72/mern-comment-box.git",
+  "author": "David Bauer <bauer.david@att.net>",
+  "license": "MIT"
+}
